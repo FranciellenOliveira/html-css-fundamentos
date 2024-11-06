@@ -1,0 +1,16 @@
+:root {
+    --cor-princpal: purple;
+    --spacing-1:5px;
+
+}
+
+.texto1 {
+    color: var(--cor-princpal);
+    margin-bottom: var(--spacing-1);
+    
+}
+
+.texto2 {
+    margin-top: var(--spacing-1);
+     color: var(--cor-princpal);
+}
